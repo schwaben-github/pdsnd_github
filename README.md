@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Friday, the 15th of January, 2021.
 
 ### Project Title
-Replace the Project Title
+Github Project: pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+Comming from "Front End Developer" path, end project in the "1. Pre-requisite: Git and Github" chapter.
 
 ### Files used
-Include the files used
+README.md  bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
